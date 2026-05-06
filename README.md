@@ -28,7 +28,7 @@
 > - Ich beschäftige mich leidenschaftlich mit Softwareentwicklung — vom Web-Frontend bis hin zu systemnahen Sprachen.
 
 > [!TIP]
-> - Als autodidaktischer Entwickler arbeite ich gerne an Projekten, die mich herausfordern und etwas Neues lehren.
+> - Mein Ziel: sauberen Code schreiben der wirklich etwas bringt.
 
 <a href="https://github.com/fakej1nx1e">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/fakej1nx1e?style=for-the-badge&label=Commit+Aktivitaet&labelColor=161b22&color=58a6ff&logo=github" alt="commits" />
+  <img src="https://img.shields.io/github/issues/fakej1nx1e/webunics?style=for-the-badge&label=Offene+Issues&labelColor=161b22&color=58a6ff&logo=github" alt="issues" />
   <img src="https://img.shields.io/github/issues/fakej1nx1e/webunics?style=for-the-badge&label=Offene+Themen&labelColor=161b22&color=f59e0b&logo=github" alt="issues" />
 </p>
 
